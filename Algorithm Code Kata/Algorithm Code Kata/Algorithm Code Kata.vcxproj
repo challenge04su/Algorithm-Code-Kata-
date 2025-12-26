@@ -124,6 +124,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm1.cpp" />
+    <ClCompile Include="Algorithm10.cpp" />
+    <ClCompile Include="Algorithm11.cpp" />
+    <ClCompile Include="Algorithm12.cpp" />
     <ClCompile Include="Algorithm2.cpp" />
     <ClCompile Include="Algorithm3.cpp" />
     <ClCompile Include="Algorithm4.cpp" />
