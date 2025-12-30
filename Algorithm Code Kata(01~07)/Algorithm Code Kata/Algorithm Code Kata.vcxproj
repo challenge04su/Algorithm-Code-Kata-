@@ -132,6 +132,7 @@
     <ClCompile Include="Algorithm15.cpp" />
     <ClCompile Include="Algorithm16.cpp" />
     <ClCompile Include="Algorithm17.cpp" />
+    <ClCompile Include="Algorithm18.cpp" />
     <ClCompile Include="Algorithm2.cpp" />
     <ClCompile Include="Algorithm3.cpp" />
     <ClCompile Include="Algorithm4.cpp" />
