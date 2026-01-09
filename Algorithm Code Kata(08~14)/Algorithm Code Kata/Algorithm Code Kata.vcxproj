@@ -137,6 +137,9 @@
     <ClCompile Include="Algorithm34.cpp" />
     <ClCompile Include="Algorithm35.cpp" />
     <ClCompile Include="Algorithm36.cpp" />
+    <ClCompile Include="Algorithm37.cpp" />
+    <ClCompile Include="Algorithm38.cpp" />
+    <ClCompile Include="Algorithm39.cpp" />
     <ClCompile Include="Algotithm22.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
