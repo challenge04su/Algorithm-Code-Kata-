@@ -126,6 +126,9 @@
     <ClCompile Include="Algorithm43.cpp" />
     <ClCompile Include="Algorithm44.cpp" />
     <ClCompile Include="Algorithm45.cpp" />
+    <ClCompile Include="Algorithm46.cpp" />
+    <ClCompile Include="Algorithm47.cpp" />
+    <ClCompile Include="Algorithm48.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
