@@ -21,5 +21,8 @@
     <ClCompile Include="Algorithm87.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Algorithm88.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
