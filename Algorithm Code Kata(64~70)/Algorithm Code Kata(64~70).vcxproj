@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Algorithm93.cpp" />
     <ClCompile Include="Basic_Day12_04.cpp" />
     <ClCompile Include="Basic_Day12_05.cpp" />
   </ItemGroup>
