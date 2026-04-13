@@ -18,5 +18,8 @@
     <ClCompile Include="Basic_Day13_05.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Aldorithm94.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
