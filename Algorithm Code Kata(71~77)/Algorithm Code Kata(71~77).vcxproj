@@ -123,8 +123,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Aldorithm94.cpp" />
+    <ClCompile Include="Algorithm94.cpp" />
     <ClCompile Include="Basic_Day13_05.cpp" />
+    <ClCompile Include="Basic_Day14_01.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
