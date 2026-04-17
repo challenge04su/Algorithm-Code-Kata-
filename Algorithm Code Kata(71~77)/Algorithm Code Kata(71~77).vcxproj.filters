@@ -30,5 +30,8 @@
     <ClCompile Include="Basic_Day14_03.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Basic_Day14_04.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
