@@ -126,6 +126,7 @@
     <ClCompile Include="Basic_Day15_01.cpp" />
     <ClCompile Include="Basic_Day15_02.cpp" />
     <ClCompile Include="Basic_Day15_03.cpp" />
+    <ClCompile Include="Basic_Day15_04.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
