@@ -33,5 +33,8 @@
     <ClCompile Include="Basic_Day16_01.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Basic_Day16_02.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
